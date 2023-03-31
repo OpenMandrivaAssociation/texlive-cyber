@@ -1,6 +1,6 @@
 Name:		texlive-cyber
 Version:	46776
-Release:	1
+Release:	2
 Summary:	Annotate compliance with cybersecurity requirements
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cyber
