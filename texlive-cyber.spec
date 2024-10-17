@@ -3,7 +3,7 @@ Version:	46776
 Release:	2
 Summary:	Annotate compliance with cybersecurity requirements
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cyber
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cyber
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cyber.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cyber.doc.r%{version}.tar.xz
